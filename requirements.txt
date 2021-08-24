@@ -7,4 +7,4 @@ Werkzeug==0.15.5
 keras
 numpy
 opencv-python
-tensorflow
+tensorflow-cpu
