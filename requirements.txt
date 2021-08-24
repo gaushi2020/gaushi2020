@@ -7,4 +7,4 @@ Werkzeug==0.15.5
 keras
 numpy==1.17.4
 opencv-python
-tensorflow==2.5.0
+tensorflow==2.2.0
