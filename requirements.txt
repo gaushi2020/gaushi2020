@@ -5,6 +5,8 @@ Jinja2==2.10.1
 MarkupSafe==1.1.1
 Werkzeug==0.15.5
 keras
-numpy
-opencv-python
+keras_preprocessing
+numpy==1.17.4
+opencv-python==4.1.2.30
+tensorflow==2.5.0
 tensorflow-cpu
